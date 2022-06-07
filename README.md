@@ -9,6 +9,9 @@ AWS, Azure, Terraform, Serverless, Kubernetes and all that cloud security relate
 ### What Am I Doing
 Currently busy building a cloud security platform to ensure continuous compliance and data security for healthcare companies.
 
+<!-- Just a hack for a thin line  -->
+##
+
 If you like or enjoy what I do, be a kind follower 😬
 
 <!--
