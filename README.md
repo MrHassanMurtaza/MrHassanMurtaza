@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, and welcome 👋
+
+### Who Am I
+An engineer passionate about enabling DevOps and Cloud Infrastructure for healthcare and compliance related companies. 
+
+### What I do
+AWS, Azure, Terraform, Serverless, Kubernetes and all that cloud security related stuff.
 
 <!--
 **MrHassanMurtaza/MrHassanMurtaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
