@@ -9,6 +9,8 @@ AWS, Azure, Terraform, Serverless, Kubernetes and all that cloud security relate
 ### What Am I Doing
 Currently busy building a cloud security platform to ensure continuous compliance and data security for healthcare companies.
 
+If you like or enjoy what I do, be a kind follower 😬
+
 <!--
 **MrHassanMurtaza/MrHassanMurtaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
