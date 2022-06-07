@@ -7,7 +7,7 @@ An engineer passionate about enabling DevOps and Cloud Infrastructure for health
 AWS, Azure, Terraform, Serverless, Kubernetes and all that cloud security related stuff.
 
 ### What Am I Doing
-Currently busy building a cloud security platform to ensure continuous compliance for healthcare companies.
+Currently busy building a cloud security platform to ensure continuous compliance and data security for healthcare companies.
 
 <!--
 **MrHassanMurtaza/MrHassanMurtaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
